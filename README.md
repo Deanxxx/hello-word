@@ -1,0 +1,2 @@
+# hello-word
+Firtst logging
